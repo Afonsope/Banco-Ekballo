@@ -1,4 +1,6 @@
-﻿using System;
+## Codigo feio pelo Afonsope
+
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
